@@ -1,0 +1,11 @@
+
+.DS_Store
+node_modules
+src
+tmpl
+*.mjs
+*-debug.*
+*.json
+*.rd
+types
+scripts
